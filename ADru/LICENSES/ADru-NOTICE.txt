@@ -1,0 +1,22 @@
+ADru (Informatika-21 / «Информатика-21»)
+========================================
+
+Автор: Ф. В. Ткачёв (F. V. Tkachov).
+Происхождение: учебные примеры по алгоритмам и структурам данных из книги
+«Информатика-21» (informatics-21.ru); исходные модули и документация взяты
+из архива `ADru` (Mod, Docu) и сохранены с исходными заголовками.
+
+Явного файла лицензии в исходном архиве нет. Файлы включены как есть, с
+сохранением авторства и исходных заголовков. Порт на JVM (ADR-247) —
+собственная работа проекта, лицензируется по BSD-3-Clause
+(см. `LICENSES/Project-LICENSE.txt` в корне).
+
+Модули: ADruS13, ADruS14, ADruS171_Files, ADruS174, ADruS174_Texts,
+ADruS183, ADruS18_Search, ADruS191_Straight, ADruS192_KMP, ADruS193_BM,
+ADruS242_Runs, ADruS24_MergeSorts, ADruS2_Sorts, ADruS33_Draw,
+ADruS33_Hilbert, ADruS33_Sierpinski, ADruS34_KnightsTour, ADruS35_Queens,
+ADruS36_Marriages, ADruS37_OptSelection, ADruS432_List, ADruS432_List2,
+ADruS432_List3, ADruS432_List4, ADruS433_TopSort, ADruS441_BalancedTree,
+ADruS443_CrossRef, ADruS443_Tree, ADruS444_Deletion, ADruS45_AVLtrees,
+ADruS46_OptTree, ADruS471_Btrees, ADruS472_BBtrees,
+ADruS48_PrioritySearchTrees, ADruS53_CrossRef.

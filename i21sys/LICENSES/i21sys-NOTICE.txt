@@ -1,0 +1,17 @@
+i21sys (Informatika-21 / «Информатика-21»)
+==========================================
+
+Автор подсистемы: Ф. В. Ткачёв (F. V. Tkachov).
+Происхождение: внешняя подсистема «Информатика-21» для BlackBox Component
+Builder (informatics-21.ru); исходные модули и ресурсы взяты из архива
+`i21sys` (Mod, Rsrc, Docu) и сохранены с исходными заголовками
+`project`/`contributors`/`changes`.
+
+Явного файла лицензии в исходном архиве подсистемы нет. Файлы включены
+как есть, с сохранением авторства и исходных заголовков. Порт на JVM
+(ADR-246) — собственная работа проекта, лицензируется по BSD-3-Clause
+(см. `LICENSES/Project-LICENSE.txt` в корне).
+
+Модули: i21sysIn, i21sysInObx, i21sysCalls, i21sysInfo, i21sysDesktop,
+i21sysCharacters, i21sysLatin1, i21sysScanner, i21sysText,
+i21sysVocabulary, i21sysEdit.
